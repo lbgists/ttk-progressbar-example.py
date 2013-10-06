@@ -4,8 +4,8 @@
 # Written by Yu-Jie Lin
 # This code is placed in Public Domain
 #
-# Gist: TBA
-# Clip: TBA
+# Gist: https://gist.github.com/livibetter/6850443
+# Clip: https://www.youtube.com/watch?v=rKr8wjKuhBY
 #
 # References:
 #
@@ -14,10 +14,10 @@
 #
 # Backstory:
 #
-# I wrote this script because one [1] of my video got some hits with irrelevant
-# keywords. I understand that would be frustrating when the searcher wants to
-# find a progress bar in Tk, but gets a video hit about progress bar in
-# terminal. So I did some reading and coding to produce this code.
+# I wrote this script because one [1] of my videos got some hits with
+# irrelevant keywords. I understand that would be frustrating when the searcher
+# wants to find a progress bar in Tk, but gets a video hit about progress bar
+# in terminal. So I did some reading and coding to produce this code.
 #
 # [1]: https://www.youtube.com/watch?v=goeZaYERNnM
 
